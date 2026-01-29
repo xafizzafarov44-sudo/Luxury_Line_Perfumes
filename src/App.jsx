@@ -46,15 +46,15 @@ function App() {
           <div className="header-container">
 
             <div className="header-logo">
-              <h1 className="header-title"  data-aos="fade-right" data-aos-delay="100">Luxury Line Perfumes</h1>
+              <h1 className="header-title">Luxury Line Perfumes</h1>
             </div>
 
             <nav className="nav">
               <ul className="nav-list">
-                <li className="nav-item" data-aos="fade-right" data-aos-delay="200">{t("header.home")}</li>
-                <li className="nav-item" data-aos="fade-right" data-aos-delay="300">{t("header.about")}</li>
-                <li className="nav-item" data-aos="fade-right" data-aos-delay="400">{t("header.services")}</li>
-                <li className="nav-item" data-aos="fade-right" data-aos-delay="500">{t("header.contact")}</li>
+                <li className="nav-item" >{t("header.home")}</li>
+                <li className="nav-item" >{t("header.about")}</li>
+                <li className="nav-item" >{t("header.services")}</li>
+                <li className="nav-item" >{t("header.contact")}</li>
               </ul>
             </nav>
 
