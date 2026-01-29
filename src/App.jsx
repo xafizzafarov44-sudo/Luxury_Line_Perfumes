@@ -58,7 +58,7 @@ function App() {
               </ul>
             </nav>
 
-            <div className="header-lang desktop-lang" data-aos="fade-right" data-aos-delay="600">
+            <div className="header-lang desktop-lang">
               <button onClick={() => changeLang("en")}>EN</button>
               <button onClick={() => changeLang("ru")}>RU</button>
               <button onClick={() => changeLang("uz")}>UZ</button>
