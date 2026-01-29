@@ -5,7 +5,6 @@ import AccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import { useTranslation } from "react-i18next";
-import "./AccordianItem.css";
 
 export default function AccordianItem() {
   const { t } = useTranslation();
