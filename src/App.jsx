@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import { useTranslation } from 'react-i18next';
-import AccordianItem from '../public/Components/AccordianItem';
+import AccordianItem from './Components/AccordianItem';
 import Slider from "react-slick"; 
 import Img from './assets/atir.png';
 import Imgg from './assets/atir1.png';
