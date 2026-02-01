@@ -1,0 +1,140 @@
+{
+    "header": {
+        "home": "Bosh sahifa",
+        "about": "Biz haqimizda",
+        "services": "Xizmatlar",
+        "contact": "Aloqa"
+    },
+
+    "hero": {
+    "slide1": {
+      "title": "Eksklyuziv kollektsiyalar",
+      "text": "Bizning hashamatli atirlarimizning eksklyuziv liniyasi bilan hid san’atini his eting.",
+      "btn": "KO‘RISH"
+    },
+    "slide2": {
+      "title": "O‘z hidingizni yarating",
+      "text": "Bizning tajribali parfumerlarimiz eng yaxshi ingredientlar va zamonaviy usullar bilan noyob hid yaratadi.",
+      "btn": "ALOQA"
+    }, 
+    "slide3": {
+      "title": "O‘z imzo hidingizni toping",
+      "text": "Bizning eksklyuziv kolleksiyamiz bilan tanishing, har biri nafislik va jozibadorlik hikoyasini aytadi.",
+      "btn": "SO‘ROV YUBORISH"
+    }
+  },
+    "about": {
+    "title": "LUXURY LINE PERFUMES HAQIDA",
+    "text": "Luxury Line Perfumes-da biz hidni faqat atir emas, balki butun bir tajriba deb bilamiz. Biz dunyoning turli burchaklaridan eng yaxshi ingredientlar bilan tayyorlangan, qo‘l mehnati bilan yaratilgan hashamatli atirlar kollektsiyasini taklif etamiz. Har bir shisha sifat, nafislik va ustalikni ifodalaydi. Agar siz imzo hidini, maxsus aralashmani yoki yaqinlaringizga sovg‘a izlayotgan bo‘lsangiz, bizning tajribali parfumerlarimiz sizni noyob hissiy sayohatga olib chiqadi. Bizning dunyomizga qadam qo‘ying va hid san’atini kashf eting.",
+    "btn": "BATAFSIL"
+  },
+  "sustain": {
+    "title": "BARQARORLIK (SUSTAINABILITY)",
+    "desc": "Bizning kompaniyamizda barqarorlik missiyamiz va qadriyatlarimizning markazida turadi. Biz biznesimizning barcha jabhalarida ekologik toza amaliyotlarni joriy etishga va targ‘ib qilishga sodiqmiz. Biz qanday qilib farq qilamiz:",
+    "item1": {
+      "title": "Ekologik toza ishlab chiqarish",
+      "text": "Biz ishlab chiqarishda barqaror materiallar va jarayonlardan foydalanamiz, bu karbon izini kamaytirishga yordam beradi. Bizning korxonalarimiz chiqindilarni kamaytirish va energiya samaradorligini oshirish uchun loyihalashtirilgan."
+    },
+    "item2": {
+      "title": "Jamiyat bilan hamkorlik",
+      "text": "Biz mahalliy jamoalar bilan hamkorlik qilib, atrof-muhitni muhofaza qilish loyihalarini qo‘llab-quvvatlaymiz va barqaror turmush tarzi haqida xabardorlikni oshiramiz."
+    },
+    "item3": {
+      "title": "Innovatsiya va samaradorlik",
+      "text": "Biz barqarorlikka olib keladigan innovatsiyalarni rivojlantirishga sodiqmiz. Jarayonlarimiz va texnologiyalarimizni takomillashtirish orqali atrof-muhitga ta’sirni kamaytirib, mahsulot sifatini va samaradorlikni oshirishni maqsad qilganmiz."
+    }
+  },
+  "process": {
+    "title": "BIZNING JARAYONIMIZ",
+    "desc": "Luxury Line Perfumes’da bizning atirlarimiz har bir shisha mo‘’jiza bo‘lishi uchun puxta jarayon orqali yaratiladi. Quyida jarayonimizning qisqacha ko‘rinishi keltirilgan:",
+    "item1": {
+      "title": "Ingredientlarni tanlash",
+      "text": "Biz dunyo bo‘ylab eng yaxshi ingredientlarni tanlaymiz, jumladan noyob gullar, ekzotik ziravorlar va qimmatbaho yog‘ochlar."
+    },
+    "item2": {
+      "title": "Mutaxassislar tomonidan aralashtirish",
+      "text": "Bizning tajribali parfumerlarimiz har bir ingredientni ehtiyotkorlik bilan aralashtirib, uyg‘un va noyob hidlarni yaratadi."
+    },
+    "item3": {
+      "title": "Sifat nazorati",
+      "text": "Har bir partiya qat’iy sifat nazorati tekshiruvlaridan o‘tadi, bu esa barqarorlik va mukammallikni ta’minlaydi."
+    },
+    "item4": {
+      "title": "Qo‘l bilan to‘ldirish",
+      "text": "Har bir shisha qo‘l bilan to‘ldiriladi va atirning yaxlitligini saqlash uchun sinchkovlik bilan qadoqlanadi."
+    },
+    "item5": {
+      "title": "Barqaror amaliyotlar",
+      "text": "Biz barqaror amaliyotlarga sodiqmiz, jarayonlarimiz ekologik toza va axloqiy mas’uliyatli bo‘lishini ta’minlaymiz."
+    }
+  },
+    "faq": {
+    "q1": "Bizning atirlarimizda qanday ingredientlar ishlatiladi?",
+    "a1": "Biz tabiiy va sintetik ingredientlar aralashmasidan foydalanamiz. Atirlarimizda efir moylari, gullar ekstrakti va noyob, uzoq davom etadigan hidlarni yaratish uchun ehtiyotkorlik bilan tanlangan sintetik komponentlar mavjud. Har bir ingredient yuqori sifat va maxsus his-tuyg‘ularni uyg‘otish qobiliyati uchun tanlanadi.",
+
+    "q2": "Bizning atirlarimiz qanday qilib his-tuyg‘ularni uyg‘otadi?",
+    "a2": "Har bir atir ma’lum bir his-tuyg‘uni uyg‘otish uchun yaratilgan. Biz yuqori, o‘rta va past notalarni birlashtirib, murakkab hidlar yaratamiz, ular dam olish, baxt, nostalgiya va hattoki ehtiros hissini uyg‘otishi mumkin. Masalan, lavanda tinchlantiruvchi xususiyatlari bilan mashhur, citrus notalar esa kayfiyatni ko‘taradi va energiya beradi.",
+
+    "q3": "Bizning imzo hidlarimizning ilhomi nimadan kelib chiqadi?",
+    "a3": "Bizning imzo hidlarimiz tabiat va xotiralardan ilhomlanadi. Biz to‘q bog‘lar, tropik plyajlar va sokin o‘rmonlardan ilhom olib, sizni sevimli joylaringizga olib boradigan hidlar yaratamiz. Shuningdek, biz unutilmas lahzalar mohiyatini aks ettirishga intilamiz, shuning uchun har bir hid noyob sayohatga aylanadi.",
+
+    "q4": "Menga mos atirni qanday tanlash mumkin?",
+    "a4": "To‘g‘ri atirni tanlash shaxsiy sayohatdir. Uni qaysi vaziyatlarda kiyishingizni, shaxsiyatingizni va qaysi his-tuyg‘ularni uyg‘otmoqchi ekanligingizni hisobga oling. Turli hidlarni sinab ko‘rish sizga mosini topishga yordam beradi. Bizning mutaxassislarimiz har doim sizning afzalliklaringizga qarab shaxsiy tavsiyalar berishga tayyor.",
+
+    "q5": "Sizning atirlaringiz qancha vaqt davom etadi?",
+    "a5": "Bizning atirlarimiz butun kun davomida davom etishi uchun yaratilgan. Hidning davomiyligi uning konsentratsiyasi va terining kimyosiga bog‘liq. Biz Eau de Toilette dan Parfum gacha turli konsentratsiyalarni taklif qilamiz. Uzoq davom etishi uchun uni puls nuqtalariga surtib, oldin teringizni namlantiring."
+  },
+    "brands": {
+    "title": "BIZNING BRENDLARIMIZ",
+    "text": "Mashhur brendlarimiz bilan tanishing"
+  },
+   "section": {
+    "title1": "BIZNING ISH JARAYONIMIZ",
+    "text1": "Parfyum ehtiyojlaringizni qondirish uchun yaratilgan professional xizmatlarimiz bilan tanishing.",
+    "card1": {
+      "title": "Kontrakt ishlab chiqarish",
+      "text": "Luxury Line Perfumes’da biz noyob atirlar yaratmoqchi bo‘lgan mijozlar uchun maxsus kontrakt ishlab chiqarish xizmatlarini taklif etamiz. Birlashgan Arab Amirliklaridagi zamonaviy korxonamiz ilg‘or texnologiyalar bilan jihozlangan va tajribali parfyumerlar hamda kimyogarlar jamoasi bilan ishlaydi. Biz siz bilan g‘oyadan tortib, tayyor mahsulotgacha birga harakat qilamiz va har bir detal sizning talablaringizga mos kelishini ta’minlaymiz. Siz imzo atiri yoki to‘liq mahsulot liniyasini yaratmoqchi bo‘lsangiz ham, biz yuqori sifat va mukammal xizmatni kafolatlaymiz."
+    },
+    "card2": {
+      "title": "Kontrakt to‘ldirish (filling)",
+      "text": "Luxury Line Perfumes professional kontrakt filling xizmatlarini taqdim etadi, sizning atirlaringizni aniqlik va ehtiyotkorlik bilan qadoqlashni ta’minlaydi. Bizning avtomatlashtirilgan to‘ldirish liniyalarimiz turli shakl va o‘lchamdagi shishalarga moslashadi va kichik hamda katta ishlab chiqarish hajmlarini qamrab oladi. Har bir shisha aniq va bir xil to‘ldirilishini ta’minlash uchun qat’iy sifat nazorati o‘rnatilgan. Biz bilan hamkorlik qilib, ishlab chiqarish jarayonini soddalashtiring va mahsulotlaringizni bozorda mukammal qadoqlangan holda yetkazib bering."
+    },
+    "card3": {
+      "title": "Boshqa brendlarni tarqatish",
+      "text": "O‘zimizning luks atirlarimizni ishlab chiqarishdan tashqari, Luxury Line Perfumes boshqa premium brendlarni ham tarqatish xizmatlarini taklif qiladi. Bizning keng tarqalgan distribyutorlik tarmog‘imiz butun BAA va undan tashqarini qamrab oladi, brendlarga chakana va ulgurji kanallarga kirishni ta’minlaydi. Biz logistika, saqlash va yetkazib berishni tashkil qilamiz, mahsulotlaringiz mijozlarga mukammal holatda yetib borishini ta’minlaymiz. Brendingizning bozor ulushini kengaytirishda ishonchli hamkor bo‘lib qoling."
+    },
+    "card4": {
+      "title": "O‘z brend atirlarimizni ishlab chiqarish",
+      "text": "Luxury Line Perfumes — bu nafislik, ziyo va betakror hunarmandlik ramzi. Bizning brend atirlarimiz dunyoning eng yaxshi ingredientlaridan foydalanib, ehtiyotkorlik bilan yaratiladi. Har bir hid — bu san’at asari bo‘lib, hashamat va nafislik mohiyatini aks ettiradi. Klassikdan tortib zamonaviygacha bo‘lgan keng assortimentimiz tanlovli did va istaklarni qondiradi. O‘z uslubingiz va shaxsiyatingizga mos keladigan ideal hidni topish uchun assortimentimizni kashf eting."
+    }
+  },
+   "contact": {
+    "title": "Biz bilan bog‘laning",
+    "form": {
+      "name": "Ism *",
+      "phone": "Telefon raqam *",
+      "email": "Email *",
+      "subject": "Mavzu",
+      "message": "Xabar",
+      "button": "YUBORISH"
+    },
+    "info": {
+      "emailTitle": "Email",
+      "phoneTitle": "Telefon",
+      "addressTitle": "Manzil"
+    }
+  },
+   "touch": {
+    "title": "Biz bilan bog‘laning",
+    "text": "Bizning noyob atirlar to‘plamimiz orqali hashamat mohiyatini kashf eting. Savolingiz bo‘lsa, yordam kerak bo‘lsa yoki fikrlaringizni bo‘lishmoqchi bo‘lsangiz — biz yordam berishga tayyormiz. Biz bilan bog‘laning va ajoyib hidlar olamiga sho‘ng‘ing."
+  },
+   "footer": {
+    "contactTitle": "BIZ BILAN BOG‘LANING",
+    "call": "Qo‘ng‘iroq",
+    "email": "Email",
+    "description": "Luxury Line Perfumes’da biz sezgilarni lol qoldiradigan va uzoq davom etadigan ajoyib atirlar yaratamiz. Bizning kollektsiyamizni kashf eting va o‘zingizga mos imzo hidini toping.",
+    "bestTitle": "ENG YAXSHI MAHSULOTLAR",
+    "bestText": "Eng mashhur atirlarimizni kashf eting.",
+    "allRight": "Barcha huquqlar himoyalangan."
+  }
+}
