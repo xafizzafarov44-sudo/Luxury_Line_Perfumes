@@ -1,0 +1,92 @@
+.proces{
+  background: rgb(254, 239, 255);
+  margin-bottom: 50px;
+  
+}
+.proces-title1 {
+  font-size: 36px;
+  font-family: sans-serif;
+  font-weight: 900;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.proces-text1 {
+  font-size: 18px;
+  font-family: sans-serif;
+  font-weight: 400;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 60px;
+}
+
+.proces-list {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.proces-item {
+  width: 300px;
+  max-width: 100%;
+  text-align: center;
+  padding: 25px;
+  border: 1px solid #000;
+  border-radius: 12px;
+  background: #fff;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.proces-item:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+  border-color: transparent;
+}
+
+.proces-title {
+  font-size: 17px;
+  font-family: sans-serif;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.proces-text {
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: 300;
+  line-height: 1.6;
+  margin: 0 auto;
+  max-width: 250px;
+}
+
+@media (max-width: 992px) {
+  .proces-title1 {
+    font-size: 30px;
+  }
+
+  .proces-text1 {
+    font-size: 16px;
+  }
+
+  .proces-item {
+    width: calc(50% - 15px);
+  }
+}
+
+@media (max-width: 768px) {
+  .proces-title1 {
+    font-size: 26px;
+  }
+
+  .proces-list {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .proces-item {
+    width: 100%;
+    max-width: 350px;
+  }
+}
