@@ -11,7 +11,7 @@ const Brands = () => {
   const { t, i18n } = useTranslation();
   return (
     <>
-          <div className="brands">
+          <div className="brands" id='services'>
             <div className="container">
               <div className="brands-container">
                 <h6 className='brands-title'>{t("brands.title")}</h6>

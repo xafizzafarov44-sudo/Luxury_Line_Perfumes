@@ -15,7 +15,7 @@ i18n
       ru: { translation: ru },
       uz: { translation: uz }
     },
-    lng: 'ru',
+    lng: 'en',
     fallbackLng: 'uz',
     debug: true,
     interpolation: {

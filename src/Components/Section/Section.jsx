@@ -7,7 +7,7 @@ const Section = () => {
   
   return (
     <>
-          <section className="section">
+          <section className="section" >
         <div className="container">
           <div className="section-header">
             <h6 className="section-title1">{t("section.title1")}</h6>

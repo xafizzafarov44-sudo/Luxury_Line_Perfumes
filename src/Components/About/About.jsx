@@ -7,7 +7,7 @@ const About = () => {
   const { t, i18n } = useTranslation();
   return (
     <>
-          <div className="about">
+          <div className="about" id='about'>
             <div className="container">
               <div className="about-container">
                 <ul className='about-list'>

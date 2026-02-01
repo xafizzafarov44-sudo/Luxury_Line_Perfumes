@@ -1,6 +1,7 @@
 .about{
   background: rgb(255, 234, 255);
   margin-top: 10px;
+  /* position: fixed; */
 }
 .about-list {
   display: flex;
