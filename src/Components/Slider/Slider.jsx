@@ -160,6 +160,7 @@ import "./Slider.css";
 
 function Fade() {
   const { t } = useTranslation();
+
   const settings = {
     dots: true,
     infinite: true,
@@ -169,58 +170,57 @@ function Fade() {
     autoplay: true,
     autoplaySpeed: 3000,
     arrows: false,
+    adaptiveHeight: true,
   };
 
   return (
-      <div className="slideer">
-  <div className="container">
-    <Slider {...settings}>
+    <div className="slideer">
+      <div className="container">
+        <Slider {...settings}>
+          <div>
+            <ul className="hero-list">
+              <li className="hero-item">
+                <h3 className="hero-title">{t("hero.slide1.title")}</h3>
+                <p className="hero-text">{t("hero.slide1.text")}</p>
+                <button className="hero-btn">{t("hero.slide1.btn")}</button>
+              </li>
+              <li className="hero-item">
+                <img className="hero-img" src={Img} alt="" />
+              </li>
+            </ul>
+          </div>
 
-      <div>
-        <ul className="hero-list">
-          <li className="hero-item">
-            <h3 className="hero-title">{t("hero.slide1.title")}</h3>
-            <p className="hero-text">{t("hero.slide1.text")}</p>
-            <button className="hero-btn">{t("hero.slide1.btn")}</button>
-          </li>
-          <li className="hero-item">
-            <img className="hero-img" src={Img} alt="" />
-          </li>
-        </ul>
+          <div>
+            <ul className="hero-list">
+              <li className="hero-item">
+                <h3 className="hero-title">{t("hero.slide2.title")}</h3>
+                <p className="hero-text">{t("hero.slide2.text")}</p>
+                <button className="hero-btn">{t("hero.slide2.btn")}</button>
+              </li>
+              <li className="hero-item">
+                <img className="hero-img" src={Imgg} alt="" />
+              </li>
+            </ul>
+          </div>
+
+          <div>
+            <ul className="hero-list">
+              <li className="hero-item">
+                <h3 className="hero-title">{t("hero.slide3.title")}</h3>
+                <p className="hero-text">{t("hero.slide3.text")}</p>
+                <button className="hero-btn">{t("hero.slide3.btn")}</button>
+              </li>
+              <li className="hero-item">
+                <img className="hero-img" src={Img3} alt="" />
+              </li>
+            </ul>
+          </div>
+        </Slider>
       </div>
-
-      <div>
-        <ul className="hero-list">
-          <li className="hero-item">
-            <h3 className="hero-title">{t("hero.slide2.title")}</h3>
-            <p className="hero-text">{t("hero.slide2.text")}</p>
-            <button className="hero-btn">{t("hero.slide2.btn")}</button>
-          </li>
-          <li className="hero-item">
-            <img className="hero-img" src={Imgg} alt="" />
-          </li>
-        </ul>
-      </div>
-
-      <div>
-        <ul className="hero-list">
-          <li className="hero-item">
-            <h3 className="hero-title">{t("hero.slide3.title")}</h3>
-            <p className="hero-text">{t("hero.slide3.text")}</p>
-            <button className="hero-btn">{t("hero.slide3.btn")}</button>
-          </li>
-          <li className="hero-item">
-            <img className="hero-img" src={Img3} alt="" />
-          </li>
-        </ul>
-      </div>
-
-    </Slider>
-  </div>
-</div>
-
+    </div>
   );
 }
+
 
 export default Fade;
 
