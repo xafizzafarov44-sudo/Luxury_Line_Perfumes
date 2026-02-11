@@ -170,8 +170,21 @@ function Fade() {
     autoplay: true,
     autoplaySpeed: 3000,
     arrows: false,
-    adaptiveHeight: true,
+    adaptiveHeight: false,
   };
+
+//   const settings = {
+//   dots: true,
+//   infinite: true,
+//   speed: 500,
+//   slidesToShow: 1,
+//   slidesToScroll: 1,
+//   autoplay: true,
+//   autoplaySpeed: 3000,
+//   arrows: false,
+//   adaptiveHeight: false, // false qilamiz
+// };
+
 
   return (
     <div className="slideer">
